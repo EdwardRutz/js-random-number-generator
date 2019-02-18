@@ -3,6 +3,15 @@
 > Roll a 6 sided die to get a random number
 > - Demonstrate the JavaScript Math object and generating random numbers
 
+## MVP Requirements
+
+- Generate a random number for a dice and display in the console log.
+
+### Bonus Features
+
+- Generate a random number based on a roll of two dice
+- Generate a random number when the user clicks on an image of dice.
+- Also generate a random image of a dice on the front-end.
 
 
 ## Notes
